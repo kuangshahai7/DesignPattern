@@ -21,7 +21,7 @@ public class ObServerMain {
 
 
 
-        subject.setMsg("第二期:杀死比尔");
+        subject.setMsg("第二期:霸王别姬");
 
     }
 }
